@@ -1,0 +1,6 @@
+# IDE - VSCode
+.vscode/*
+
+gsudo-gui.config.ahk
+
+*.exe

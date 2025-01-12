@@ -1,0 +1,17 @@
+LANG := "EN"
+
+SHOW_DEV := false
+
+NVM_PATH := "C:\Users\[USER]\AppData\Roaming\nvm"
+
+WAITTIMEKEY := 2000
+
+GUICOLS := 6
+
+AUT_SYSTEM_ACTIVE := false
+
+WAITTIMEAUT := 5000
+
+DEFAULT_TEXT := ""
+
+; HIDE_ parameters used to hide any of the functions (e.g.: HIDE_DeleteFiles := true)
